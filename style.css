@@ -1,0 +1,37 @@
+body{
+   
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.ogurchik{
+    border-left: 8px solid blueviolet;
+}
+.gg{
+    border-left: 8px solid rgb(112, 101, 255);
+}
+.hh{
+    border-left: 8px solid rgb(43, 226, 186);
+}
+.aa{
+    border-left: 8px solid rgb(255, 76, 76);
+}
+.ff{
+    border-left: 8px solid rgb(236, 16, 200);
+}
+.jj{
+    border-left: 8px solid rgb(0, 34, 129);
+}
+p{
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
